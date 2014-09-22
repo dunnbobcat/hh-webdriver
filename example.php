@@ -1,4 +1,4 @@
-<?php
+<?hh
 // An example of using php-webdriver.
 
 require_once('lib/__init__.php');
